@@ -1,0 +1,7 @@
+2020-06-14 18:22:28,658 - logger_from_confic - INFO : Startlogging:
+2020-06-14 18:22:28,658 - logger_from_confic - INFO : start div
+2020-06-14 18:22:28,658 - logger_from_confic - ERROR : Error in div -> ZeroDivisionError('division by zero')
+Traceback (most recent call last):
+  File ".\logger_from_confic.py", line 40, in <module>
+    1/0
+ZeroDivisionError: division by zero
